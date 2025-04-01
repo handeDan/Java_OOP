@@ -1,4 +1,4 @@
-package Encapsulation;
+package com.oop.encapsulation;
 
 public class BankAccount {
     //instance variables:

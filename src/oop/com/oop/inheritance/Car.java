@@ -1,4 +1,4 @@
-package Inheritance;
+package com.oop.inheritance;
 
 public class Car extends Vehicle {
     //instance variables:
