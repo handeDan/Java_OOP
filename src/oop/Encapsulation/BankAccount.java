@@ -1,3 +1,5 @@
+package Encapsulation;
+
 public class BankAccount {
     //instance variables:
     private double balance;
